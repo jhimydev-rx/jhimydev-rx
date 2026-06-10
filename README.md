@@ -32,7 +32,6 @@
 
 <br>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/techstack.gif"/>
 
 ## 🚀 About Me
 
