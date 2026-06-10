@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jhimydev-rx/jhimydev-rx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Jhimy
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1200\&color=6DB33F\&center=true\&vCenter=true\&width=700\&lines=Full+Stack+Developer;Spring+Boot+%C2%B7+React+%C2%B7+PostgreSQL;Building+Modern+Web+Applications;Linux+Enthusiast+%F0%9F%90%A7;Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+`````text
+                   -`                 jhimy@dev
+                  .o+`                -----------------------------
+                 `ooo/                OS: Linux 🐧
+                `+oooo:               Role: Full Stack Developer
+               `+oooooo:              Langs: Java, SQL, JavaScript
+               -+oooooo+:             Stack: Spring Boot, React, Vue
+             `/:-:++oooo+:            DB: PostgreSQL, MariaDB
+            `/++++/+++++++:           Cloud: AWS
+           `/++++++++++++++:          Focus: REST APIs & Web Apps
+          `/+++ooooooooooooo/`        Status: Open to Work 🚀
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+`````
+
+<br>
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/techstack.gif"/>
+
+## 🚀 About Me
+
+* 💻 Full Stack Developer
+* ☕ Passionate about Java and modern web applications
+* 🐧 Linux user
+* ⚡ Focused on building scalable applications
+* 🚀 Open to new opportunities and projects
+
+<br>
+
+## 🛠️ System Dependencies (Tech Stack)
+
+### [ LANGUAGES & CORE ]
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,postgres,mysql" />
+</p>
+
+### [ FRAMEWORKS & LIBRARIES ]
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,vue" />
+</p>
+
+### [ INFRASTRUCTURE & TOOLS ]
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,idea" />
+</p>
+
+<br>
+
+## 🎯 Current Focus
+
+```text
+✓ Spring Boot
+✓ Hibernate
+✓ React
+✓ PostgreSQL
+✓ REST APIs
+✓ Full Stack Development
+```
+
+<br>
+
+## 🤝 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/jhimy-reyes">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/jhimydev-rx">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+<br>
+
+<div align="center">
+
+### 🚀 Building useful software one commit at a time
+
+</div>
