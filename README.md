@@ -1,94 +1,68 @@
 <div align="center">
 
-# 👋 Hey, I'm Jhimy
+# Hi, I'm Jhimy Reyes
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=6DB33F&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%C2%B7+Vue+%C2%B7+PostgreSQL;Building+Modern+Web+Applications;Linux+Enthusiast+%F0%9F%90%A7;Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+### Software Engineer · Backend Development
 
-</div>
+**Java & Spring Boot · C# & .NET · PostgreSQL**
 
-<br>
+Based in Arequipa, Peru · Open to software engineering opportunities
 
-```text
-                   -`                 jhimy@dev
-                  .o+`                -----------------------------
-                 `ooo/                OS: Linux 🐧
-                `+oooo:               Role: Full Stack Developer
-               `+oooooo:              Langs: Java, SQL, JavaScript
-               -+oooooo+:             Stack: Spring Boot, Vue
-             `/:-:++oooo+:            DB: PostgreSQL, MariaDB
-            `/++++/+++++++:           Cloud: AWS
-           `/++++++++++++++:          Focus: REST APIs & Web Apps
-          `/+++ooooooooooooo/`        Status: Open to Work 🚀
-         ./ooosssso++osssssso+`
-        .oossssso-````/ossssss+`
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
-```
-
-<br>
-
-## 🚀 About Me
-
-* 💻 Full Stack Developer
-* ☕ Passionate about Java and modern web applications
-* 🐧 Linux user
-* ⚡ Focused on building scalable applications
-* 🚀 Open to new opportunities and projects
-
-<br>
-
-## 🛠️ System Dependencies (Tech Stack)
-
-### [ LANGUAGES & CORE ]
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,postgres,mysql" />
-</p>
-
-### [ FRAMEWORKS & LIBRARIES ]
-<p>
-<img src="https://skillicons.dev/icons?i=spring,vue" />
-</p>
-
-### [ INFRASTRUCTURE & TOOLS ]
-<p>
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,idea" />
-</p>
-
-<br>
-
-## 🎯 Current Focus
-
-```text
-✓ Spring Boot
-✓ Hibernate
-✓ Vue.js
-✓ PostgreSQL
-✓ REST APIs
-✓ Full Stack Development
-```
-
-<br>
-
-## 🤝 Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/jhimy-reyes">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/jhimydev-rx">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
-<br>
-
-<div align="center">
-
-### 🚀 Building useful software one commit at a time
+[LinkedIn](https://www.linkedin.com/in/jhimy-reyes/) · [Explore my repositories](https://github.com/jhimydev-rx?tab=repositories)
 
 </div>
+
+---
+
+## About me
+
+I build REST APIs and business applications with Java/Spring Boot and C#/.NET. My work includes inventory systems, logistics workflows and real-time applications, with a focus on clear business logic, authentication and relational databases.
+
+My professional experience includes contributing to an ERP migration across frontend and backend, integrating APIs and developing a corporate website with Vue.js and Nuxt. I also use LLM-based tools to support my programming workflow.
+
+## Selected projects
+
+### [SmartStock API](https://github.com/jhimydev-rx/SmartStock-api-Spring)
+**Inventory management · Java / Spring Boot**
+
+A team project that I lead, with JWT access/refresh authentication, subscription management, mobile synchronization endpoints and reporting. The authentication module follows Clean Architecture, with Spring Security and Spring Data JPA. Includes environment profiles for development, AWS and Supabase.
+
+**Stack:** Java · Spring Boot · Spring Security · JPA · PostgreSQL
+
+### [LogiERP](https://github.com/jhimydev-rx/LOGIERP-FRONTEND)
+**Logistics management · C# / .NET / Angular**
+
+A logistics system covering orders, warehouse operations, transport, deliveries, sales and cash management. The backend uses layered architecture, Entity Framework Core, JWT authentication, permissions, validation and audit trails. The Angular frontend provides module-based screens, forms, filtering and API integration.
+
+**Stack:** C# · ASP.NET Core · EF Core · PostgreSQL · Angular · TypeScript  
+**Engineering:** MediatR · FluentValidation · AutoMapper · Integration checks · Browser tests  
+*The link above points to the public frontend repository.*
+
+### [PRO-SE-AL](https://pro-se-al.onrender.com/)
+**Real-time learning platform · Node.js / Socket.IO**
+
+A team-built application for practicing NFPA hazard identification. I developed the Express backend and real-time features, including multiplayer room logic and rankings, collaborating with teammates on the React frontend, PostgreSQL database and Docker packaging.
+
+**Stack:** Node.js · Express · Socket.IO · React · PostgreSQL · Docker
+
+## Technologies I work with
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Security, Spring Data JPA, C#, ASP.NET Core, Entity Framework Core |
+| Web & real-time | TypeScript, Angular, JavaScript, Node.js, Express, Socket.IO, Vue.js, Nuxt |
+| Databases | PostgreSQL, MySQL, MariaDB, SQL |
+| Deployment & tools | Git, Docker, Linux, AWS EC2, RDS, Application Load Balancer, Nginx |
+| Development practices | REST APIs, JWT authentication, layered architecture, validation, integration testing, AI-assisted development |
+
+## What I'm focused on
+
+- Building maintainable backend services and practical business applications.
+- Strengthening automated testing, database design and deployment workflows.
+- Working with teams where I can contribute, learn and take ownership of implementation tasks.
+
+**Languages:** Spanish (native) · English (intermediate, B1)
+
+---
+
+Interested in working together? [Let's connect on LinkedIn.](https://www.linkedin.com/in/jhimy-reyes/)
