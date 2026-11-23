@@ -1,6 +1,24 @@
-<div align="center">
+<div align="center"></div>
 
-<img src="https://cdn.simpleicons.org/archlinux/1793D1" width="110" height="110" alt="Arch Linux" />
+```text
+jhimy@arch ~ $ neofetch
+
+                   /\                    jhimy@arch
+                  /  \                   ----------
+                 /\   \                  OS: Arch Linux
+                /      \                 Role: Software Engineer
+               /   ,,   \                Focus: Backend Development
+              /   |  |  -\               Languages: Java, C#, TypeScript
+             /_-''    ''-_\              Backend: Spring Boot, .NET
+                                         Web: Angular, Vue, Nuxt
+                                         Data: PostgreSQL, MySQL
+                                         Cloud: AWS, Docker, Nginx
+                                         Workflow: Git + LLM-assisted coding
+                                         Location: Arequipa, Peru
+                                         Status: Open to work
+```
+
+<div align="center">
 
 # 👋 Hey, I'm Jhimy Reyes
 
