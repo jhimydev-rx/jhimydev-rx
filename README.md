@@ -1,68 +1,96 @@
 <div align="center">
 
-# Hi, I'm Jhimy Reyes
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" width="110" height="110" alt="Arch Linux" />
+
+# 👋 Hey, I'm Jhimy Reyes
 
 ### Software Engineer · Backend Development
 
-**Java & Spring Boot · C# & .NET · PostgreSQL**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=1793D1&center=true&vCenter=true&width=650&lines=Java+%26+Spring+Boot+%7C+C%23+%26+.NET;REST+APIs+%C2%B7+Business+Applications;Arch+Linux+Enthusiast;Building+with+code+and+AI" alt="Java and Spring Boot, C# and .NET, REST APIs, Arch Linux enthusiast" />
 
-Based in Arequipa, Peru · Open to software engineering opportunities
+**Arequipa, Peru 🇵🇪 · Open to software engineering opportunities**
 
-[LinkedIn](https://www.linkedin.com/in/jhimy-reyes/) · [Explore my repositories](https://github.com/jhimydev-rx?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jhimy-reyes/)
+[![GitHub](https://img.shields.io/badge/GitHub-My_projects-181717?style=for-the-badge&logo=github)](https://github.com/jhimydev-rx?tab=repositories)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 </div>
 
 ---
 
-## About me
+## 🧑‍💻 About me
 
-I build REST APIs and business applications with Java/Spring Boot and C#/.NET. My work includes inventory systems, logistics workflows and real-time applications, with a focus on clear business logic, authentication and relational databases.
+- ⚙️ I build **REST APIs and business applications** with Java/Spring Boot and C#/.NET.
+- 🏢 My experience includes **ERP migration**, frontend/backend integration and a corporate website built with Vue.js and Nuxt.
+- 📦 My projects cover inventory management, logistics and real-time multiplayer applications.
+- 🤖 I use **LLM-based tools to support my programming workflow**.
+- 🐧 Linux enthusiast, with a soft spot for **Arch**.
+- 🌎 Spanish (native) · English (intermediate, B1).
 
-My professional experience includes contributing to an ERP migration across frontend and backend, integrating APIs and developing a corporate website with Vue.js and Nuxt. I also use LLM-based tools to support my programming workflow.
+## 🛠️ Tech stack
 
-## Selected projects
+**Backend**
 
-### [SmartStock API](https://github.com/jhimydev-rx/SmartStock-api-Spring)
-**Inventory management · Java / Spring Boot**
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,express&theme=dark" alt="Java, Spring Boot, C#, .NET, Node.js, Express" />
 
-A team project that I lead, with JWT access/refresh authentication, subscription management, mobile synchronization endpoints and reporting. The authentication module follows Clean Architecture, with Spring Security and Spring Data JPA. Includes environment profiles for development, AWS and Supabase.
+Spring Security · Spring Data JPA · ASP.NET Core · Entity Framework Core · Socket.IO
 
-**Stack:** Java · Spring Boot · Spring Security · JPA · PostgreSQL
+**Frontend**
 
-### [LogiERP](https://github.com/jhimydev-rx/LOGIERP-FRONTEND)
-**Logistics management · C# / .NET / Angular**
+<img src="https://skillicons.dev/icons?i=ts,js,angular,vue,nuxtjs&theme=dark" alt="TypeScript, JavaScript, Angular, Vue.js, Nuxt" />
 
-A logistics system covering orders, warehouse operations, transport, deliveries, sales and cash management. The backend uses layered architecture, Entity Framework Core, JWT authentication, permissions, validation and audit trails. The Angular frontend provides module-based screens, forms, filtering and API integration.
+**Databases & deployment**
 
-**Stack:** C# · ASP.NET Core · EF Core · PostgreSQL · Angular · TypeScript  
-**Engineering:** MediatR · FluentValidation · AutoMapper · Integration checks · Browser tests  
-*The link above points to the public frontend repository.*
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,nginx&theme=dark" alt="PostgreSQL, MySQL, Docker, AWS, Nginx" />
 
-### [PRO-SE-AL](https://pro-se-al.onrender.com/)
-**Real-time learning platform · Node.js / Socket.IO**
+PostgreSQL · MySQL / MariaDB · AWS EC2, RDS & Application Load Balancer
 
-A team-built application for practicing NFPA hazard identification. I developed the Express backend and real-time features, including multiplayer room logic and rankings, collaborating with teammates on the React frontend, PostgreSQL database and Docker packaging.
+**Daily tools**
 
-**Stack:** Node.js · Express · Socket.IO · React · PostgreSQL · Docker
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,idea&theme=dark" alt="Linux, Git, GitHub, VS Code, IntelliJ IDEA" />
 
-## Technologies I work with
+## 🚀 Selected projects
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Java, Spring Boot, Spring Security, Spring Data JPA, C#, ASP.NET Core, Entity Framework Core |
-| Web & real-time | TypeScript, Angular, JavaScript, Node.js, Express, Socket.IO, Vue.js, Nuxt |
-| Databases | PostgreSQL, MySQL, MariaDB, SQL |
-| Deployment & tools | Git, Docker, Linux, AWS EC2, RDS, Application Load Balancer, Nginx |
-| Development practices | REST APIs, JWT authentication, layered architecture, validation, integration testing, AI-assisted development |
+### 📦 [SmartStock API](https://github.com/jhimydev-rx/SmartStock-api-Spring)
 
-## What I'm focused on
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- Building maintainable backend services and practical business applications.
-- Strengthening automated testing, database design and deployment workflows.
-- Working with teams where I can contribute, learn and take ownership of implementation tasks.
+An inventory management API and a **team project that I lead**. Includes JWT access/refresh authentication, subscriptions, mobile synchronization and reporting. The authentication module follows Clean Architecture, with deployment profiles for development, AWS and Supabase.
 
-**Languages:** Spanish (native) · English (intermediate, B1)
+### 🚚 [LogiERP](https://github.com/jhimydev-rx/LOGIERP-FRONTEND)
+
+![.NET](https://img.shields.io/badge/C%23_%2F_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+A logistics system for orders, warehouse operations, transport, deliveries and sales. Built with a layered .NET backend, EF Core, JWT, permissions, validation and audit trails, plus an Angular frontend. Includes integration checks and browser tests.
+
+<sub>Link opens the public frontend repository.</sub>
+
+### ⚡ [PRO-SE-AL](https://pro-se-al.onrender.com/)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+A team-built learning platform for NFPA hazard identification. I developed the **Express backend and real-time multiplayer features**, including room logic and rankings, collaborating with teammates on React, PostgreSQL and Docker packaging.
+
+## 🎯 Current focus
+
+- Maintainable backend services, authentication and relational database design.
+- Automated testing and deployment workflows.
+- Practical software that solves real business problems.
 
 ---
 
-Interested in working together? [Let's connect on LinkedIn.](https://www.linkedin.com/in/jhimy-reyes/)
+<div align="center">
+
+**Let's build something useful.**
+
+[Connect with me on LinkedIn →](https://www.linkedin.com/in/jhimy-reyes/)
+
+<sub>Powered by curiosity, persistence, and a Linux terminal. 🐧</sub>
+
+</div>
